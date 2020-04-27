@@ -2,7 +2,7 @@
 
 In April 2020 we [reported](https://www.bbc.co.uk/news/uk-england-52416823) that about half of companies eligible for emergency coronavirus grants had not yet received funding.
 
-The story drew on [data from the Department for Business, Energy & Industrial Strategy](https://www.gov.uk/government/publications/coronavirus-grant-funding-local-authority-payments-to-small-and-medium-businesses), with further questions to Rutland and changes those figures based on replies.
+The story drew on [data from the Department for Business, Energy & Industrial Strategy](https://www.gov.uk/government/publications/coronavirus-grant-funding-local-authority-payments-to-small-and-medium-businesses), with further questions to Rutland and changes to those figures based on replies.
 
 ## Get the data
 
