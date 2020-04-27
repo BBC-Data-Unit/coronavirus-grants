@@ -1,2 +1,15 @@
-# coronavirus-grants
-Coronavirus: Firms face 'inexcusable' delay over lockdown grants
+# Coronavirus: Firms face 'inexcusable' delay over lockdown grants
+
+In April 2020 we [reported](https://www.bbc.co.uk/news/uk-england-52416823) that about half of companies eligible for emergency coronavirus grants had not yet received funding.
+
+## Get the data
+
+* CSV: [Distribution of emergency business grants by authority](https://github.com/BBC-Data-Unit/coronavirus-grants/blob/master/Emergency%20business%20grants%20for%20sharing%20-%20Sheet1.csv) - also [available on Google Sheets](https://docs.google.com/spreadsheets/d/1K4AHBFdnocEcm30UZ8PPS8hhJ36i8Y6ouWSLaSNehkY/edit#gid=0)
+
+## Interviews and quotes
+
+* Tim Coleman, owner, Chevron Heritage Ltd
+* Mike Cherry, chair, the Federation of Small Businesses (FSB)
+* Daniel Duckett, owner, Lazy Claire Patisserie in Belfast 
+* Spokesperson, the Department for Business 
+* Richard Watts, the Local Government Association resources board
