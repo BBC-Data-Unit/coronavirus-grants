@@ -22,4 +22,12 @@ The story drew on [data from the Department for Business, Energy & Industrial St
 
 You can [find all coronavirus-related stories by the BBC data units tagged 'coronavirus' here](https://github.com/search?q=topic%3Acoronavirus+org%3ABBC-Data-Unit&type=Repositories)
 
+## Usage
 
+Stories produced by local news partners included:
+
+* Nottingham Post: How Nottingham businesses are being helped with government coronavirus support grants[https://www.nottinghampost.com/news/nottingham-news/how-nottingham-businesses-being-helped-4071952] *27 April 2020*
+* Herts Advertiser: St Albans businesses receive grants to help with coronavirus impact[https://www.hertsad.co.uk/news/st-albans-businesses-receive-financial-support-during-coronavirus-shutdown-1-6625998] *27 April 2020*
+* Bimringham Mail: Emergency grants paid to 7,000 Birmingham businesses to get them through coronavirus - how to apply[https://www.birminghammail.co.uk/news/midlands-news/barely-any-birmingham-businesses-receiving-18160033] *28 April 2020*
+* Bucks Herald: Over £28 million in available business grants unclaimed in Bucks[https://www.bucksherald.co.uk/business/consumer/over-ps28-million-available-business-grants-unclaimed-bucks-2551450] *27 April 2020*
+* Basingstoke Gazette: Basingstoke at top end of league table for issuing Covid-19 business grants[https://www.basingstokegazette.co.uk/news/18407631.basingstoke-top-end-league-table-issuing-covid-19-business-grants/] *27 April 2020*
