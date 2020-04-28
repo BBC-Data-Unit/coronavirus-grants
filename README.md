@@ -33,3 +33,4 @@ Stories produced by local news partners included:
 * Basingstoke Gazette: [Basingstoke at top end of league table for issuing Covid-19 business grants](https://www.basingstokegazette.co.uk/news/18407631.basingstoke-top-end-league-table-issuing-covid-19-business-grants/) *27 April 2020*
 * Sheffield Star: [Thousands of Sheffield businesses are yet to receive Covid-19 grants](https://www.thestar.co.uk/business/thousands-sheffield-businesses-are-yet-receive-covid-19-grants-2551877) *27 April 2020*
 * Stoke-on-Trent Live: [Angry traders plunged into debt as they wait for council to pay £10k Covid-19 cash](https://www.stokesentinel.co.uk/news/stoke-on-trent-news/angry-business-owners-slam-borough-4075053) *28 April 2020*
+* Kensington Chelsea and Westminster Today: [Thousands of business still waiting for emergency financial support](https://www.kcwtoday.co.uk/2020/04/thousands-of-business-still-waiting-for-emergency-financial-support/) *27 April 2020*
