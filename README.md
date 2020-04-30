@@ -18,6 +18,7 @@ The Shared Data Unit makes data journalism available to news organisations acros
 * Sheffield Star: [Thousands of Sheffield businesses are yet to receive Covid-19 grants](https://www.thestar.co.uk/business/thousands-sheffield-businesses-are-yet-receive-covid-19-grants-2551877) *27 April 2020*
 * Stoke-on-Trent Live: [Angry traders plunged into debt as they wait for council to pay £10k Covid-19 cash](https://www.stokesentinel.co.uk/news/stoke-on-trent-news/angry-business-owners-slam-borough-4075053) *28 April 2020*
 * Derbyshire Live: [Half of firms in Staffordshire still to claim emergency cash to survive Covid-19](https://www.derbytelegraph.co.uk/burton/half-firms-staffordshire-still-claim-4084100) *28 April 2020*
+* Coventry Live: [This is how many small businesses in Coventry and Warwickshire have received Government coronavirus support](https://www.coventrytelegraph.net/news/coventry-news/how-many-small-businesses-coventry-18163577) *29 April 2020*
 
 
 ## Get the data
