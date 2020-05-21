@@ -16,9 +16,11 @@ The Shared Data Unit makes data journalism available to news organisations acros
 * Kensington Chelsea and Westminster Today: [Thousands of business still waiting for emergency financial support](https://www.kcwtoday.co.uk/2020/04/thousands-of-business-still-waiting-for-emergency-financial-support/) *27 April 2020*
 * Nottingham Post: [How Nottingham businesses are being helped with government coronavirus support grants](https://www.nottinghampost.com/news/nottingham-news/how-nottingham-businesses-being-helped-4071952) *27 April 2020*
 * Sheffield Star: [Thousands of Sheffield businesses are yet to receive Covid-19 grants](https://www.thestar.co.uk/business/thousands-sheffield-businesses-are-yet-receive-covid-19-grants-2551877) *27 April 2020*
-* Stoke-on-Trent Live: [Angry traders plunged into debt as they wait for council to pay £10k Covid-19 cash](https://www.stokesentinel.co.uk/news/stoke-on-trent-news/angry-business-owners-slam-borough-4075053) *28 April 2020*
 * Derbyshire Live: [Half of firms in Staffordshire still to claim emergency cash to survive Covid-19](https://www.derbytelegraph.co.uk/burton/half-firms-staffordshire-still-claim-4084100) *28 April 2020*
+* Hemel Today: [Hundreds of Dacorum businesses yet to receive grants](https://www.hemeltoday.co.uk/business/consumer/hundreds-dacorum-businesses-yet-receive-grants-2552416) *28 April 2020*
+* Stoke-on-Trent Live: [Angry traders plunged into debt as they wait for council to pay £10k Covid-19 cash](https://www.stokesentinel.co.uk/news/stoke-on-trent-news/angry-business-owners-slam-borough-4075053) *28 April 2020*
 * Coventry Live: [This is how many small businesses in Coventry and Warwickshire have received Government coronavirus support](https://www.coventrytelegraph.net/news/coventry-news/how-many-small-businesses-coventry-18163577) *29 April 2020*
+* Leeds Live: [https://www.leeds-live.co.uk/news/leeds-news/leeds-businesses-receive-100-million-18168122](https://www.leeds-live.co.uk/news/leeds-news/leeds-businesses-receive-100-million-18168122) *29 April 2020*
 * Grimsby Live: [The number of small businesses receiving Government support during the Covid-19 crisis](https://www.grimsbytelegraph.co.uk/news/grimsby-news/number-small-businesses-receiving-government-4085334) *2 May 2020*
 * Lincolnshire Live: [Three fifths of Lincolnshire small businesses given emergency grants during coronavirus crisis](https://www.lincolnshirelive.co.uk/news/three-fifths-small-businesses-grants-4089973) *4 May 2020*
 
